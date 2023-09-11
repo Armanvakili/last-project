@@ -1,0 +1,262 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(30, 0, 44);
+}
+.header-bp {
+  background-color: rgb(14, 14, 14);
+  margin-left: 10%;
+  margin-top: 150px;
+  display: flex;
+  height: 750px;
+  width: 80%;
+  box-shadow: 7px 7px 10px rgb(0, 2, 19);
+}
+.container {
+  width: 90%;
+  height: 500px;
+  margin-left: 75px;
+  margin-top: 10%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.img1 {
+  border-radius: 23px;
+  background-color: #fff;
+  height: 500px;
+  align-items: flex-end;
+  width: 400px;
+}
+.p2 {
+  width: 370px;
+  margin: 20px;
+  color: rgb(1, 34, 77);
+  opacity: 0.9;
+}
+
+.bluesky {
+  margin-left: 20px;
+  font-size: 30px;
+  color: blue;
+}
+
+.img2 {
+  border-radius: 20px 20px 0px 0px;
+  opacity: 100%;
+}
+
+.item {
+  background-color: black;
+  width: 50px;
+  opacity: 0.9;
+  height: 750px;
+  position: absolute;
+  overflow: hidden;
+}
+
+.item2 {
+  height: 62vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.item3 {
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+}
+.item:hover {
+  width: 200px;
+}
+.header-wp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-wp .wp {
+  width: 90%;
+  height: 35px;
+  background-color: rgb(255, 255, 255);
+  margin-top: 55px;
+  margin-bottom: 100px;
+  border-radius: 25px;
+  position: relative;
+}
+.img3 {
+  height: 100%;
+  background-color: #fff;
+  border-radius: 23px;
+}
+.img4 {
+  border-radius: 20px 20px 0px 0px;
+  width: 410px;
+}
+
+.bluespaceship {
+  margin-left: 20px;
+  font-size: 30px;
+  color: blue;
+}
+
+.p3 {
+  width: 370px;
+  margin: 20px;
+  color: rgb(1, 34, 77);
+  opacity: 0.9;
+}
+
+.img5 {
+  height: 100%;
+  background-color: #fff;
+  border-radius: 23px;
+}
+
+.img6 {
+  border-radius: 20px 20px 0px 0px;
+  width: 410px;
+}
+
+.bluespacecompany {
+  margin-left: 20px;
+  font-size: 30px;
+  color: blue;
+}
+
+.p4 {
+  width: 370px;
+  margin: 20px;
+  color: rgb(1, 34, 77);
+  opacity: 0.9;
+}
+
+i {
+  margin-top: 10px;
+  margin-left: 12px;
+}
+
+.home {
+  width: 200px;
+  height: 45px;
+  display: flex;
+}
+
+.home2 {
+  margin-left: 20px;
+  font-size: 18px;
+  color: #fff;
+  margin-top: 14px;
+}
+
+.home:hover {
+  background-color: blue;
+}
+
+.photo {
+  width: 200px;
+  display: flex;
+  height: 45px;
+}
+
+.galery {
+  margin-left: 20px;
+  font-size: 18px;
+  color: #fff;
+  align-self: center;
+  margin-top: 19px;
+}
+
+.photo:hover {
+  background-color: blue;
+}
+
+.blog {
+  width: 200px;
+  display: flex;
+  height: 45px;
+}
+
+.blog2 {
+  margin-left: 20px;
+  font-size: 18px;
+  color: #fff;
+  align-self: center;
+  margin-top: 19px;
+}
+
+.blog:hover {
+  background-color: blue;
+}
+
+.messages {
+  width: 200px;
+  display: flex;
+  height: 45px;
+}
+
+.messages2 {
+  margin-left: 20px;
+  font-size: 18px;
+  color: #fff;
+  align-self: center;
+  margin-top: 19px;
+}
+
+.messages:hover {
+  background-color: blue;
+}
+
+.notification1 {
+  width: 200px;
+  display: flex;
+  height: 45px;
+}
+
+.notification2 {
+  margin-left: 20px;
+  font-size: 18px;
+  color: #fff;
+  align-self: center;
+  margin-top: 19px;
+}
+
+.notification1:hover {
+  background-color: blue;
+}
+
+.settings1 {
+  width: 200px;
+  display: flex;
+  height: 45px;
+}
+
+.settings2 {
+  margin-left: 20px;
+  font-size: 18px;
+  color: #fff;
+  align-self: center;
+  margin-top: 19px;
+}
+
+.settings1:hover {
+  background-color: blue;
+}
+
+.logout1 {
+  width: 200px;
+  display: flex;
+  height: 45px;
+}
+
+.logout2 {
+  margin-left: 20px;
+  font-size: 18px;
+  color: #fff;
+  align-self: center;
+  margin-top: 19px;
+}
+
+.logout1:hover {
+  background-color: blue;
+}
